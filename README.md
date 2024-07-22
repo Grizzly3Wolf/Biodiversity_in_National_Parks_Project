@@ -10,6 +10,6 @@ The main questions which the this projects aims to answer is:
 
 The data was provided by Codecademy.It is insipired from real life data but is mostly fictional.
 
-Other features of this project:-
+Other features of this project:-  
 A search function to find which National Parks have the species you are looking for.  
 A pie chart function which gives you an overview of all the species in a selected Biodiversity National Park.
